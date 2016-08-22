@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Giroscope Serial</string>
+    <string name="degrees_string">Heading: %1$.1f degrees</string>
+</resources>
